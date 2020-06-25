@@ -1,0 +1,29 @@
+.contenedor{
+    background-color: grey;    
+}
+
+.h1, h2{
+    color:red;
+}
+
+p.bold{
+    font-weight: bold;
+}
+
+.conImagen{
+    width: 500px;
+    margin: 0 auto;
+    background-color: hotpink;
+}
+
+.miImagen{
+    width: 300px;
+    
+}
+
+.imagen{
+    width: 300px;
+    display: inline;
+    height: 200px;
+    
+}

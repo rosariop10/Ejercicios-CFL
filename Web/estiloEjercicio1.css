@@ -1,0 +1,30 @@
+h1{
+    color:purple;
+    font-size: 30px;
+}
+
+p{
+    color:palevioletred;
+    text-align: center;  
+    font-weight: bold;  
+}
+
+body{
+    background-color: seashell;
+}
+
+#parrafo-inicial{
+    color: green;
+    font-size: 50px;
+}
+
+.parrafo-amarillo{
+    color: yellow;
+    text-align: left;
+    font-style: italic;
+}
+
+.titulo{
+    color: blue;
+    text-transform: uppercase;
+}

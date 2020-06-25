@@ -1,0 +1,17 @@
+.container-fluid{
+    margin: 5px;
+    background-color: greenyellow;
+}
+
+.columnas{
+    background-color: khaki;
+    width: auto;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.distintas{
+    border: dotted;
+    background-color: lavender;
+}

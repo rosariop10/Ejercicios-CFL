@@ -1,0 +1,31 @@
+.div-padre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    background-color: salmon;
+    height: 300px;
+}
+
+.div-amarillo{
+    background-color: yellow;
+}
+
+.div-rojo{
+    background-color: red;
+}
+
+.div-azul{
+    background-color: blue;
+    width: 68% !important;
+}
+
+.div-padre div{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    height: 300px;
+    width: 33%;
+}

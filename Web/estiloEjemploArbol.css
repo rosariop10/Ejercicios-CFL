@@ -1,0 +1,36 @@
+div >p {
+    background-color:yellow; 
+}
+
+div + h2 {
+    background-color:red; 
+    color: white; 
+}
+    
+p ~ h2{
+    background-color: orange; 
+    color: white
+}
+
+div {
+    border: solid; }
+
+a:hover{
+    background-color:palevioletred;
+}
+
+a:active{    
+    color: greenyellow;
+} 
+
+h2{
+    color: brown;
+}
+
+.Titulo2{
+    color: blue;
+}
+
+h1:hover{
+    background-color: blue;
+}

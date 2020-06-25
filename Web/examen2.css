@@ -1,0 +1,17 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.guardarTareas{
+    background-color: indianred;
+}
+
+.eliminarTareas{
+    background-color: indigo;
+}
+
+
+li{
+    font-style: italic;
+    color: lawngreen;
+}
