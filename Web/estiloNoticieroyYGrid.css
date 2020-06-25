@@ -1,0 +1,13 @@
+.div-iguales {
+    background-color: tomato;
+    height: 300px;
+    border: 1px solid black;
+}
+.div-distintos {
+    background-color: blue;
+    height: 300px;
+    border: 1px solid black;
+}
+.div-12 {
+    background-color: rgb(255, 0, 191);
+}

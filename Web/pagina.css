@@ -1,0 +1,17 @@
+.container{
+    margin: 5px;
+    background-color: greenyellow;
+}
+
+.div-1{
+    background-color: khaki;
+    width: auto;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.div-2{
+    border: dotted;
+    background-color: lavender;
+}

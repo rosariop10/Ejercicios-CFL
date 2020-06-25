@@ -1,0 +1,10 @@
+.div-padre{
+    width: 1000px;
+    background-color: purple;
+    margin: auto;
+}
+
+.div-hijo{
+    width: 50%;
+    background-color: pink;
+}
