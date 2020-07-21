@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "ejecutar": "tsc arregloPalabras.ts & node arregloPalabras.js",
-    "ejecutar2": "tsc arregloPalabrasLau.ts & node arregloPalabrasLau.js",
+    "ejecutar2": "tsc arregloPalabrasBis.ts & node arregloPalabrasBis.js",
     "archivos": "tsc archivo.ts & node archivo.js",
     "votar": "tsc votaciones.ts & node votaciones.js",
     "test": "echo \"Error: no test specified\" && exit 1"
